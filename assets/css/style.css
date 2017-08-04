@@ -1,0 +1,37 @@
+
+
+body {
+
+	background-image: url("../images/bg.png");
+}
+
+.jumbotron,
+.panel {
+
+	color: white;
+	background-color: #601515;
+	border: 2px solid grey;
+	border-radius: 5px;
+}
+
+.boxes {
+
+	width: 100%;
+	color: black;
+}
+
+.jumbotron {
+
+	font-family: 'Times', serif;
+	text-align: center;
+	background-color: 601515;
+
+
+}
+
+#submit {
+
+	color: black;
+
+}
+
